@@ -25,9 +25,13 @@ sections:
     url: "/generic"
     is_scrolly: false
     is_primary: false
-  title: Ipsum malesuada
-  subtitle: "Rutrum facilisis. Class aptent taciti sociosqu  \nlitora torquent et
-    conubia etiam nostra."
+  title: How BulaBox Works
+  subtitle: |-
+    ### Subscribe, starting at $25/box.
+
+    Monthly Time with your loved ones is a click away
+
+    Valued at over $40!
   symbol_display:
   - title: Lorem
     icon: fa-code
