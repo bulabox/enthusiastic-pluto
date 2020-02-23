@@ -41,7 +41,7 @@ sections:
 
     Our baby supplies last for 1 month and 5 days that way your covered for shipping times.
   symbol_display:
-  - title: Lorem
+  - title: Shipping
     icon: fa-code
   - title: Ipsum
     icon: fa-cog
