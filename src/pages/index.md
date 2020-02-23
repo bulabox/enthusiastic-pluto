@@ -11,7 +11,7 @@ sections:
     is_scrolly: false
     is_primary: false
   title: BulaBox
-  img_path: "/images/pic01.jpg"
+  img_path: "/images/18493110.jpg"
   component: Intro
 - type: features
   template: features
