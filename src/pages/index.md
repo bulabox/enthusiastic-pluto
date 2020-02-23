@@ -29,7 +29,7 @@ sections:
   subtitle: "![](/images/InfoBabyBox.jpg)"
   symbol_display:
   - title: Subscribe
-    icon: far fa-address-card
+    icon: fa-address-card
   - title: Ship
     icon: fa-ship
   - title: Enjoy
