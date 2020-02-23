@@ -31,7 +31,7 @@ sections:
   - title: Subscribe
     icon: fa-address-card
   - title: Ship
-    icon: fa-ship
+    icon: fa-dolly
   - title: Enjoy
     icon: fa-smile-beam
   component: Features
