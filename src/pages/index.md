@@ -28,7 +28,7 @@ sections:
   title: How BulaBox Works
   subtitle: "![](/images/InfoBabyBox.jpg)"
   symbol_display:
-  - title: Dolor
+  - title: Subscribe
     icon: fas fa-user-check
   - title: Feugiat
     icon: fa-camera-retro
