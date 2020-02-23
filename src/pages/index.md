@@ -31,7 +31,7 @@ sections:
 
     Monthly Time with your loved ones is a click away
 
-    Valued at over $40!
+    Valued at over $90!
 
     ### Your first box ships immediately.
 
