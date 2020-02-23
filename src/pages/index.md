@@ -33,7 +33,7 @@ sections:
   - title: Ship
     icon: fa-dolly
   - title: Enjoy
-    icon: fa-smile-beam
+    icon: fa-smile
   component: Features
 - type: spotlight
   template: spotlight
