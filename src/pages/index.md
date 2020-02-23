@@ -27,7 +27,7 @@ sections:
     is_primary: false
   title: How BulaBox Works
   subtitle: |-
-    ### Subscribe, starting at $25/box.
+    ### Subscribe, starting at $50box.
 
     Monthly Time with your loved ones is a click away
 
