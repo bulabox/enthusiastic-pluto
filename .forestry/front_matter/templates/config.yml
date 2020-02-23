@@ -1,16 +1,15 @@
 ---
 label: Config
 hide_body: true
-is_partial: false
 fields:
-  - type: text
-    name: title
-    label: Title
-    description: Site title
-    config:
-      required: true
-  - type: text
-    name: none
-    label: None
-    description: 'Just an empty param, allows the site params to be displayed properl'
-    hidden: true
+- type: text
+  name: title
+  label: Title
+  description: Site title
+  config:
+    required: true
+- type: text
+  name: none
+  label: None
+  description: Just an empty param, allows the site params to be displayed properl
+  hidden: true
