@@ -1,19 +1,20 @@
+---
 enabled: true
-title: Magna lorem ipsum
-social_content: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum
-  facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-  per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
+title: BulaBox The Baby Box
+social_content: Here at BulaBox we care about providing the best care for newborns,
+  infants and toddlers so that they can grow up to be bright strong and influential
+  in their years coming. Let us become apart of your family today so that you can
+  do more while we take care of all of the essentials.
 social_links:
-  - title: Twitter
-    icon: fa-twitter
-    link_url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    link_url: '#'
-  - title: Snapchat
-    icon: fa-snapchat-ghost
-    link_url: '#'
-  - title: GitHub
-    icon: fa-github
-    link_url: '#'
+- title: Twitter
+  icon: fa-twitter
+  link_url: "#"
+- title: Instagram
+  icon: fa-instagram
+  link_url: "#"
+- title: Snapchat
+  icon: fa-snapchat-ghost
+  link_url: "#"
+- title: GitHub
+  icon: fa-github
+  link_url: "#"
