@@ -31,7 +31,7 @@ sections:
   - title: Subscribe
     icon: fas fa-user-check
   - title: Ship
-    icon: fas fa-shipping-fast
+    icon: fa-shipping-fast
   - title: Tempus
     icon: fa-briefcase
   component: Features
