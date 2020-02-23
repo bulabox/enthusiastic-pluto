@@ -32,8 +32,8 @@ sections:
     icon: fa-user-check
   - title: Ship
     icon: fa-shipping-fast
-  - title: Tempus
-    icon: fa-briefcase
+  - title: Enjoy
+    icon: fa-smile-beam
   component: Features
 - type: spotlight
   template: spotlight
