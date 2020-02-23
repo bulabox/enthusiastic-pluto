@@ -3,10 +3,8 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: "## BulaBox Provides your new ones all of there essentials so that you
-    can  enjoy more time with your loved ones.\n\nBulaBox Provides your new ones with
-    all  \nof there essentials so that you can enjoy more  \ntime with your loved
-    ones."
+  content: "BulaBox Provides your new ones with all  \nof there essentials so that
+    you can enjoy more  \ntime with your loved ones."
   actions:
   - label: Enroll Today
     url: "/generic"
