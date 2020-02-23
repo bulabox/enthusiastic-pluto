@@ -10,8 +10,8 @@ sections:
     url: "/generic"
     is_scrolly: false
     is_primary: false
-  title: Reflex
-  img_path: images/pic01.jpg
+  title: BulaBox
+  img_path: "/images/18493110.jpg"
   component: Intro
 - type: features
   template: features
