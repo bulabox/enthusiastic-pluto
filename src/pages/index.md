@@ -28,12 +28,8 @@ sections:
   title: How BulaBox Works
   subtitle: "![](/images/InfoBabyBox.jpg)"
   symbol_display:
-  - title: Shipping
-    icon: fa-shipping-fast
-  - title: Ipsum
-    icon: fa-cog
   - title: Dolor
-    icon: fa-diamond
+    icon: fas fa-user-check
   - title: Feugiat
     icon: fa-camera-retro
   - title: Tempus
