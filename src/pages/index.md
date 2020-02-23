@@ -30,8 +30,8 @@ sections:
   symbol_display:
   - title: Subscribe
     icon: fas fa-user-check
-  - title: Feugiat
-    icon: fa-camera-retro
+  - title: Ship
+    icon: fas fa-shipping-fast
   - title: Tempus
     icon: fa-briefcase
   component: Features
