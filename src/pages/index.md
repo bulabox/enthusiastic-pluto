@@ -13,7 +13,7 @@ sections:
     is_scrolly: false
     is_primary: false
   title: BulaBox
-  img_path: "/images/18493110.jpg"
+  img_path: "/images/baby-821625_1920.jpg"
   component: Intro
 - type: features
   template: features
