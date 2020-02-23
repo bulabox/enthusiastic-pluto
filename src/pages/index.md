@@ -3,8 +3,8 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: "Lorem ipsum dolor sit magna consectetur  \nadipiscing elit. Duis dapibus
-    rutrum facilisis.  \nClass aptent taciti sociosqu torquent."
+  content: "BulaBox Provides Your New Ones All\n\nof there essentials so that you
+    can enjoy more  \ntime with your loved ones"
   actions:
   - label: Enroll Today
     url: "/generic"
