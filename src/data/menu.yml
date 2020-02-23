@@ -1,9 +1,10 @@
+---
 actions:
-  - label: Get Started
-    url: /generic
-    is_scrolly: false
-    is_primary: true
-  - label: Log In
-    url: /generic
-    is_scrolly: false
-    is_primary: false
+- label: Enroll Today
+  url: "/generic"
+  is_scrolly: false
+  is_primary: true
+- label: Log In
+  url: "/generic"
+  is_scrolly: false
+  is_primary: false
