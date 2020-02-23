@@ -26,20 +26,7 @@ sections:
     is_scrolly: false
     is_primary: false
   title: How BulaBox Works
-  subtitle: |-
-    ### Subscribe, starting at $50box.
-
-    Monthly Time with your loved ones is a click away
-
-    Valued at over $90!
-
-    ### Your first box ships immediately.
-
-    FREE SHIPPING inside the contiguous 48 United States.
-
-    ### Your month-long baby party begins.
-
-    Our baby supplies last for 1 month and 5 days that way your covered for shipping times.
+  subtitle: "![](/images/InfoBabyBox.jpg)"
   symbol_display:
   - title: Shipping
     icon: fa-shipping-fast
