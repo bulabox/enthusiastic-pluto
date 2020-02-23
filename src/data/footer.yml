@@ -1,6 +1,7 @@
+---
 enable_contact_section: true
-copyright: '&copy; Reflex. All rights reserved. Lorem ipsum dolor sit amet nullam.'
+copyright: "&copy; BulaBox. All rights reserved. The Baby Box Company."
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+- text: Made with Stackbit
+  url: https://www.stackbit.com
+  new_window: true
