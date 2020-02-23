@@ -3,15 +3,15 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: "    BulaBox Provides your new ones all of there \n    essentials so that
-    you can \n    enjoy more time with your loved ones."
+  content: "## BulaBox Provides your new ones all of there essentials so that you
+    can  enjoy more time with your loved ones."
   actions:
   - label: Enroll Today
     url: "/generic"
     is_scrolly: false
     is_primary: false
   title: BulaBox
-  img_path: "/images/18493110.jpg"
+  img_path: "/images/pic01.jpg"
   component: Intro
 - type: features
   template: features
